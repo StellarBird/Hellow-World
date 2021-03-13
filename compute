@@ -1,0 +1,10 @@
+x=9
+y=3
+z=1.2
+
+print(x+y)
+print(x-y)
+print(x*y)
+print(x**y)
+print(x%y) #mod
+
